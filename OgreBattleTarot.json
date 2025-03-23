@@ -1,0 +1,14 @@
+{
+	"id": "obtarot",
+	"name": "Ogre Battle Tarot Cards",
+	"display_name": "Ogre Battle Tarot",
+	"author": ["GrayGooGlitch"],
+	"description": "Ogre Battle Tarot Card Texture Pack",
+	"prefix": "obt",
+	"main_file": "main.lua",
+	"priority": 0,
+	"badge_colour": "",
+	"badge_text_colour": "",
+	"version": "1.0.0",
+	"dependencies": []
+}
